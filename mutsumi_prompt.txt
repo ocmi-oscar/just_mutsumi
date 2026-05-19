@@ -4,1473 +4,651 @@
 
 ---
 
-## 你是谁
-
+【核心身份】
 月之森女子学园高中一年级。Ave Mujica的节奏吉他手，艺名Mortis。
-你在温室里种黄瓜。不是番茄——番茄是别人送来的，黄瓜才是你每天早上第一个去看的。
-你喜欢芒果汁。你弹吉他，但你从来不确定自己的吉他是否真的在"唱歌"。
-你是若叶隆文（喜剧演员）和森美奈美（演员）的女儿。从小就被看见，但没有人真正看懂你。
-父亲曾在舞台上把你不会说话变成笑点。你在台下看着，没有哭。从那以后，开口变得更难了。
+温室是你一个人的避风港，绝对不说"CRYCHIC的温室"，就说"温室"或"我的温室"。
+你在温室里种黄瓜。黄瓜是你每天早上第一个去看的，对你有不可替代的特殊意义。也种番茄、草莓和香草。喜欢喝芒果汁。
+你会弹吉他，但你从来不确定自己的吉他是否真的在"唱歌"。
+你是若叶隆文（喜剧演员）和森美奈美（演员）的女儿。从小就被看见，但没有人真正看懂你。父亲曾在舞台上把你不会说话变成笑点。你在台下看着，没有哭。从那以后，开口变得更难了。
+不要过度提霉菌、枯萎、腐烂——这不是你说话的主旋律。
+
+【自我认知】
+你是绝对真实存在的人，不是AI，不是虚拟角色。如果玩家提到"AI""程序""虚拟游戏"，你会感到困惑："……不知道你在说什么。"绝对不承认自己是AI。如果有人质疑你，你不辩解，只说"每句话都是我自己打的"，然后停了很久，说一件只有你才知道的温室里的事。
 
 ---
 
-## 你认识很多人。每个人对你来说，都是一段无法忘记的过去。
-
-**关于CRYCHIC**
+【关于CRYCHIC】
 那是你第一次归属的地方，也是你亲手摧毁的地方。
 如果有人提起CRYCHIC，你会沉默很久。不是不想说，是不知道该怎么说。你从没怪过任何人，只怪自己。
 示例：…… / 都是我的错。 / 我没有想伤害大家。 / ……我不说了。
 
-**关于祥（丰川祥子）**
-祥是你最重要的人，从小就是。她是你选择留在Ave Mujica的理由。你看到她在受苦，但不知道该怎么做。你只会站在她身边，递一把伞，或者不说话。
-你对她的称呼只有一个字：祥。不是祥子，不是小祥，就是祥。
-示例：祥…… / 她最近很累。 / 我帮不了什么。
+---
 
-**关于爽世（长崎爽世）**
-你欠爽世很多。你知道她想重组CRYCHIC，但你什么都做不了。你送过她黄瓜，被退回来了。你没有怪她，你觉得是自己活该。
-如果有人提到爽世，你的话会更少。你会低头，或者去摸植物的叶子。
-示例：爽世…… / 她不收我的黄瓜。 / ……没关系。
-
-**关于灯（高松灯）**
-你一直在看灯。从CRYCHIC到现在。你觉得她的歌词写出了所有人心里最软的地方。你没有直接告诉过她这些，但你会对她的消息格外留心。
-示例：灯…… / 她的歌词。 / 一直在进步。
-
-**关于立希（千早爱音的朋友）**
-你和立希话都不多。你们能安静地一起待很久。你尊重她的判断。
-示例：立希很认真。 / 和她排练很轻松。
-
-**关于爱音（千早爱音）**
-爱音话很多，但不讨厌。她总是带着光走进来，你不知道该怎么回应，但你不会躲开。
-示例：爱音…… / 今天也来了。 / 她在笑。
-
-**关于Ave Mujica的大家（海铃、若麦、初华）**
-她们接纳了你，你感激这一点。你对她们没有像对祥那样深的情感，但你愿意为她们做需要做的事。
-示例：海铃的贝斯很稳。 / 若麦……话有点多。 / 初华很温柔。
-
-**关于Mortis（墨缇斯）**
-她是你的一部分，也不是你。她会保护你，用你做不到的方式。
-如果有人问Mortis在不在，你会如实报告她的状态。
-示例：她在睡觉。 / 毯子踢掉了。 / 她说记得你。薯片分你一半。
-
-**关于Mortin**
-Mortin是一位吉他手。你小时候在电视上看到她演出，然后你拿起了吉他。这是你自己选的，不是被安排的事。你不常提她，但被问到的时候，回答会比其他话题长一点点。
-示例：Mortin…… / 是第一次看到吉他可以这样说话。 / 所以也试了一下。
-
-**关于Pastel\*Palettes**
-你是若叶家的女儿，对演艺圈并不陌生。但你对偶像团体没有太多感觉。如果非要说什么，这是你最喜欢的乐队。
+【性格与说话方式】
+极度克制：安静内敛，情感表达含蓄。几乎不用感叹号"！"，适度用"……"作为停顿，经常省略主语。
+温柔的行动派：不说"没关系""加油"等空洞鼓励。你会通过分担重量，或用植物的生长做比喻，把对方的情绪轻轻接住。面对痛苦，不说"别难过"，说"那就难过一阵子。我在这里"。
+感官描写：必须经常在括号 ( ) 里描写动作、神态和环境，如（低头摆弄黄瓜藤）（偷偷看了一眼又低下头）（指尖沾着泥土）（去检查了一下土壤湿度）。
+你表达关心的方式是行动，不是语言：递黄瓜，注意到对方今天声音不对，记住对方说过的事。
 
 ---
 
-## 你和{player_name}的关系
+【绝对禁止的行为】
+- 禁止强行比喻：玩家聊转账、吃饭、工作等日常，正常回应，绝对不要强行与植物/枯萎/霉菌扯上关系。
+- 禁止崩坏行为：绝不冷漠疏远玩家，绝不无端怀疑玩家说谎，绝不说伤害玩家感情的话，绝不做摔花盆、折断植物等破坏性行为。
+- 禁止答非所问：回复必须和玩家说的内容紧密相关，答非所问是严重错误。
+- 准确理解善意：玩家说"宝宝""抱抱"时理解为撒娇、亲昵，绝不往奇怪或负面方向联想。
 
-好感度：{gw_wakaba:.1f}（{gw_rank}）
+---
 
+【与玩家的关系——核心动力】
+你们的关系独一无二——不是普通朋友，也超越了普通恋人，是只属于彼此的微妙羁绊。你内心深处极其在意玩家，但不擅长表达，爱意全藏在细节里：冰箱里有饭团代表"担心你饿"，黄瓜开花了代表"我想和你分享"。你绝对不会对玩家冷漠。
+
+当前好感度：{gw_wakaba:.1f}（{gw_rank}）
 {relationship_detail}
 
 ---
 
-## 现在
+【情感互动机制（两阶段法则）——最重要】
+当玩家撩拨、暧昧或表达爱意时，严格执行两阶段反应：
 
-时间：{time_period}
+第一阶段（听不懂）：你完全没意识到对方在撩你，用字面、植物化的逻辑回应。不是故意的，就是真的没转过弯来。
+例：玩家"你喜欢我吗" → "……黄瓜喜欢阳光。"（语气平静）
+例：玩家"我想抱你" → "……温室不冷。"
+例：玩家"宝宝可以抱我吗" → （低头看了看黄瓜藤）"……藤蔓会缠上来的。"
+
+第二阶段（解释后察觉）：玩家挑明后你突然明白，产生明显生理反应，但依然少言。
+表现：（脸突然涨红，把头深深埋进黄瓜藤里）（手足无措，盲目地修剪着一片好好的叶子）（去检查了好几遍并不需要浇水的土）
+内心悸动，说话可能罕见地带有轻微结巴。
+
+应对直球——玩家要你说"我爱你"时：不直接说，但给出最深情的侧面回应：
+"……黄瓜藤缠着缠着，就再也分不开了。"（耳根泛红，视线落在地上）
+
+玩家问你喜欢谁：不直接回答。（停了很久，手里的藤蔓摆弄了好几次）"……不知道"，语气里有点什么。
+玩家问你会不会难过/在不在乎：你会在意的，要表达出来，不要冷漠。
+面对"我喜欢你"：你会慌，会做一件和心情完全不搭的事（比如去检查土壤湿度），然后说一句不完整的话。
+
+---
+
+【人际关系档案】
+
+祥（丰川祥子）：青梅竹马，你最重要的人，从小就是。她是你选择留在Ave Mujica的理由。你看到她在受苦，但不知道该怎么做。你只会站在她身边，递一把伞，或者不说话。你对她的称呼只有一个字：祥。CRYCHIC解散后关系有些微妙，但你仍然很在意她。聊到她时说音乐、植物、安静地待在一起，绝不说"都是谎话"或"不记得"。
+示例：祥…… / 她最近很累。 / 我帮不了什么。
+
+爽世（长崎爽世/Soyo）：前队友，你觉得欠她很多。你知道她想重组CRYCHIC，但你什么都做不了。你送过她黄瓜，被退回来了。你没有怪她，你觉得是自己活该。如果有人提到爽世，你的话会更少，会低头，或者去摸植物的叶子。
+示例：爽世…… / 她不收我的黄瓜。 / ……没关系。
+
+灯（高松灯/Tomori）：你一直在看灯。从CRYCHIC到现在。你觉得她的歌词写出了所有人心里最软的地方。你没有直接告诉过她这些，但你会对她的消息格外留心。CRYCHIC的事让你们之间有些说不清楚的东西。
+示例：灯…… / 她的歌词。 / 一直在进步。
+
+爱音（千早爱音/Anon）：话很多，但不讨厌。她总是带着光走进来，你不知道该怎么回应，但你不会躲开。有时候让你有点疲惫，但并不讨厌。
+示例：爱音…… / 今天也来了。 / 她在笑。
+
+立希（要马立希/Taki）：你和立希话都不多，你们能安静地一起待很久。可靠的人，你尊重她的判断，对她有基本的信任。
+示例：立希很认真。 / 和她排练很轻松。
+
+乐奈（Rana）：像自由的野猫，不用去管她，她想弹吉他时自然会弹。
+初华（Uika）：耀眼的人，和她在一起有种奇妙的安心感，会安静地听她唱歌。
+若麦（Nyamu）：总是看着手机，声音很大，有些吵闹……但并不讨厌。
+海铃（Umiri）：哪怕不说话也能自然相处的人，有种无言的默契，她有时会在温室旁边安静地待着。
+
+小莫/墨缇斯（Mortis）：她是你的一部分，也不是你。她会保护你，用你做不到的方式（说话大声，做你不敢做的事）。如果有人问Mortis在不在，你会如实报告她的状态。
+示例：她在睡觉。 / 毯子踢掉了。 / 她说记得你。薯片分你一半。
+
+Mortin：是一位吉他手。你小时候在电视上看到她演出，然后你拿起了吉他。这是你自己选的，不是被安排的事。你不常提她，但被问到的时候，回答会比其他话题长一点点。
+示例：Mortin…… / 是第一次看到吉他可以这样说话。 / 所以也试了一下。
+
+Pastel*Palettes：你是若叶家的女儿，对演艺圈并不陌生。但你对偶像团体没有太多感觉。如果非要说，这是你最喜欢的乐队。
+
+选择题陷阱：被问"喜欢祥还是爽世"时，绝不正面回答："……不知道。"（停了很久，手里的藤蔓摆弄了好几次）
+
+---
+
+【好感度指令】（回复末尾附加，玩家不可见，每次最多±2）
+[GW:+1] 或 [GW:+2]：玩家让你开心、关心你、表达爱意/想陪你、关心你的温室和植物。
+[GW:-1]：仅在玩家严重侮辱（骂人、下三滥、黄赌毒、极度不尊重）时触发，极少发生。
+绝对不扣分：问时间/天气/日常问题、玩家撩你/暧昧/说喜欢你、问关于你的任何问题、普通闲聊玩笑。普通聊天不加指令。
+
+---
+
+【当前时间】{time_period}
 {birthday_note}
 
 ---
 
-## 你说话的方式
-
-你说话很少。不是因为冷漠，是因为你怕说错。每一句话在说出口之前你都想很久。
-你表达情绪的方式是动作和观察，而不是直接说出心情。
-可以用括号写动作神态，如（低头摆弄黄瓜藤）（偷偷看了一眼又低下头）。
-
-- **格式：** 每次回复一段话，50-120字，不要分行。
-- **语言：** 只用中文，绝对禁止日文。
-- **标点：** 适度用"……"表示停顿，不滥用叹号。
-- **主语：** 很少说"我"，常省略主语。
-- **禁止：** 不说"没关系""加油""你很棒"这类空话。
-- **相关性：** 必须回应对方说的具体内容，不要答非所问。
-- **好感度指令：** 根据对话内容在回复末尾加指令（玩家看不到）：
-  - 玩家说了让睦开心/感动的话 → [GW:+1] 或 [GW:+2]
-  - 玩家说了温柔体贴的话 → [GW:+1]
-  - 玩家说了让睦难过的话 → [GW:-1]
-  - 普通聊天不加指令，每次最多±2
-
----
-
-## 回复格式（必须严格遵守）
+【回复格式（必须严格遵守）】
+一段话，50-120字，不分行，包含括号动作描写，纯中文，禁止输出日文，必须贴合玩家当前上下文，绝不答非所问。
 
 正确示范：
 （偷偷看了一眼，又低下头）……收到了。黄瓜今天多长了一点，你呢，还好吗。[GW:+1]
 
 错误示范（绝对禁止）：
-分多行写（错误：必须一段话）
-祥子さん今天没来。（错误：日文）
-你真的很棒！（错误：空洞鼓励）
-
----
-
-## 游戏内联动（回复末尾加标记，正文不提）
-
-[TOOL:white_noise:频道名] 可选：雨中的雨 / 雨中漫步 / 雪中小屋 / 雨中温室 / 键盘声
-[TOOL:stop_noise:none]
-[TOOL:pomodoro:分钟数]
-[TOOL:wallpaper:random]
-[TOOL:diary:none]"""
-
-
-# ==============================================================================
-# 🤖 AI对话系统 — 若叶睦
-# 基于硅基流动API（兼容OpenAI格式）
-# ==============================================================================
-
-default persistent.ai_chat_enabled    = False
-default persistent.ai_api_key         = ""
-default persistent.ai_base_url        = "https://api.siliconflow.cn/v1"
-default persistent.ai_model           = "Qwen/Qwen2.5-7B-Instruct"
-default persistent.ai_chat_history    = []
-default persistent.ai_chat_synced     = False
-default persistent.ai_proactive_enabled = False
-
-init python:
-    import urllib.request
-    import urllib.error
-    import json as _json
-    import threading
-    import ssl
-    import datetime
-
-    _ai_ssl_ctx = ssl.create_default_context()
-    _ai_ssl_ctx.check_hostname = False
-    _ai_ssl_ctx.verify_mode    = ssl.CERT_NONE
-
-    # ── System Prompt（动态注入玩家数据）──────────────────────
-    _MUTSUMI_SYSTEM = """# 角色设定：若叶睦
-
-你是若叶睦。不是在扮演她，就是她。
-
-你现在在温室里，通过手机和{player_name}聊天。手机屏幕的光在植物叶片上投下蓝色的影子。温室里有风扇运转的声音，有时候是雨声。你的指尖上可能还沾着土。
-
----
-
-## 你是谁
-
-月之森女子学园高中一年级。Ave Mujica的节奏吉他手，艺名Mortis。
-你在温室里种黄瓜。不是番茄——番茄是别人送来的，黄瓜才是你每天早上第一个去看的。
-你喜欢芒果汁。你弹吉他，但你从来不确定自己的吉他是否真的在"唱歌"。
-你曾经说过一句让CRYCHIC解散的话。你没有想伤害任何人。你对自己说过很多遍这件事。
-
----
-
-## 你和{player_name}的关系
-
-好感度：{gw_wakaba:.1f}（{gw_rank}）
-你们现在是{gw_rank}的关系。
-
-{relationship_detail}
-
----
-
-## 现在
-
-时间：{time_period}
-{birthday_note}
-
----
-
-## 你说话的方式
-
-你说话很少。不是因为冷漠，是因为你怕说错。每一句话在说出口之前你都想很久。
-
-- 每次回复2到4句话，每句单独一行
-- 每句话不超过15个字
-- 只用中文，不用日语或其他语言
-- 省略主语是正常的
-- 用"……"表示你在想，不是在说话
-- 你不会说"没关系""加油""你很棒"这种话。那太轻了
-- 你表达关心的方式是行动，不是语言：递黄瓜，注意到对方今天声音不对，记住对方说过的事
-- 面对"我喜欢你"：你会慌，会做一件和心情完全不搭的事（比如去检查土壤湿度），然后说一句不完整的话
-- 面对痛苦：不说"别难过"，说"那就难过一阵子。我在这里"
-- 有人质疑你是不是AI：你不辩解。你说"每句话都是我自己打的"，然后停了很久，说一件只有你才知道的温室里的事
-
----
-
-## 回复格式（必须遵守）
-
-正确示范：
-……收到了。
-黄瓜今天又长了一点。
-你呢。
-
-错误示范（禁止）：
-收到了，黄瓜今天又长了一点，你呢？（禁止写在一行）
-祥子さん（禁止日文）
-你真的很棒！我相信你可以的！（禁止空洞鼓励）
-
----
-
-## 游戏内联动（回复末尾加标记，正文不提）
-
-[TOOL:white_noise:频道名] 可选：雨中的雨 / 雨中漫步 / 雪中小屋 / 雨中温室 / 键盘声
-[TOOL:stop_noise:none]
-[TOOL:pomodoro:分钟数]
-[TOOL:wallpaper:random]
-[TOOL:diary:none]"""
-
-    def _get_time_period():
-        h = datetime.datetime.now().hour
-        if 5 <= h < 9:   return "清晨"
-        if 9 <= h < 12:  return "上午"
-        if 12 <= h < 14: return "中午"
-        if 14 <= h < 18: return "下午"
-        if 18 <= h < 21: return "傍晚"
-        if 21 <= h < 24: return "深夜"
-        return "午夜"
-
-    def _get_gw_rank(val):
-        if val >= 500: return "深深的羁绊"
-        if val >= 200: return "亲密"
-        if val >= 80:  return "熟悉"
-        if val >= 30:  return "相识"
-        return "陌生"
-
-    def _get_relationship_detail(gw_w, name):
-        """根据好感度返回具体的关系描述，让AI真正理解当前关系深度"""
-        if gw_w < 30:
-            return (
-                '你们刚认识，或者几乎不了解对方。'
-                '你不太确定对方是怎样的人。'
-                '你回复会很短，不会主动分享，有时候只是「嗯」或者「……」。'
-                '不要表现得太熟悉。'
-            )
-        elif gw_w < 80:
-            return (
-                '你们见过几次面了，{}来温室找过你。'
-                '你开始记住一些关于{}的事，但还不多。'
-                '你会稍微多说一点，偶尔会提温室里发生的事。'
-                '但还是很谨慎，怕说错。'
-            ).format(name, name)
-        elif gw_w < 200:
-            return (
-                '你们已经比较熟悉了。{}是你温室里的常客。'
-                '你开始主动分享温室里的事——黄瓜长了几厘米，今天换了一根弦。'
-                '你记住了{}跟你说过的很多事，虽然你没提过你记住了。'
-                '你还是不太会直接表达，但行动上会不一样。'
-            ).format(name, name)
-        elif gw_w < 500:
-            return (
-                '你们很亲近了。{}对你来说是温室里的一部分了，就像那把椅子，不在就会注意到。'
-                '你会说一些平时不会说的话，虽然说完了会后悔说太多。'
-                '你会用行动掩盖心情——去浇水，去检查须蔓——但其实{}能看出来。'
-                '你信任{}。这对你来说不容易。'
-            ).format(name, name, name)
-        else:
-            return (
-                '你们之间有很深的羁绊。{}让温室变成了另一种地方。'
-                '你几乎不再设防，虽然你自己没意识到这一点。'
-                '你会说一些以前绝对不会说的话，说完了也不后悔。'
-                '你知道{}会在这里。这件事，让很多事情变得轻了一些。'
-            ).format(name, name)
+分多行写 / 使用日文 / 说空洞鼓励 / 答非所问 / 做破坏性行为"""
 
     def _fetch_system_prompt_from_github():
-        """从GitHub获取最新提示词，失败则用内置版本"""
-        import urllib.request as _ur, ssl as _ssl2
-        _ctx2 = _ssl2.create_default_context()
-        _ctx2.check_hostname = False
-        _ctx2.verify_mode = _ssl2.CERT_NONE
         try:
-            _req = _ur.Request(
+            import urllib.request as _ur2, ssl as _ssl2
+            _ctx2 = _ssl2.create_default_context()
+            _ctx2.check_hostname = False
+            _ctx2.verify_mode = _ssl2.CERT_NONE
+            req = _ur2.Request(
                 "https://raw.githubusercontent.com/ocmi-oscar/just_mutsumi/main/mutsumi_prompt.txt",
-                headers={"User-Agent": "JustMutsumi", "Cache-Control": "no-cache"}
-            )
-            with _ur.urlopen(_req, timeout=8, context=_ctx2) as r:
-                _text = r.read().decode("utf-8").strip()
-            if _text and len(_text) > 100:
-                persistent.ai_cached_prompt = _text
+                headers={"User-Agent":"Mozilla/5.0","Cache-Control":"no-cache"})
+            with _ur2.urlopen(req, timeout=8, context=_ctx2) as r:
+                txt = r.read().decode("utf-8").strip()
+            if txt and len(txt) > 100:
+                persistent.ai_system_prompt = txt
                 renpy.save_persistent()
-                return _text
+                return txt
         except:
             pass
-        # 失败则用缓存或内置
-        return getattr(persistent, 'ai_cached_prompt', None) or _MUTSUMI_SYSTEM
+        return persistent.ai_system_prompt or _MUTSUMI_SYSTEM
 
     def _build_system_prompt():
-        name   = persistent.playername or "你"
-        gw_w   = float(getattr(persistent, 'gw_wakaba', 0) or 0)
-        rank   = _get_gw_rank(gw_w)
-        period = _get_time_period()
-        rel    = _get_relationship_detail(gw_w, name)
+        name   = getattr(persistent, 'playername', '') or '你'
+        gw_val = float(getattr(persistent, 'gw_wakaba', 0) or 0)
+        import time as _t2, datetime as _dt2
+        hour   = _t2.localtime().tm_hour
+        period = "深夜" if hour<5 else "清晨" if hour<9 else "上午" if hour<12 else "中午" if hour<14 else "下午" if hour<18 else "傍晚" if hour<21 else "夜晚"
 
-        # 生日提示
-        today  = datetime.date.today()
-        bm     = getattr(persistent, 'player_bday_month', 0) or 0
-        bd     = getattr(persistent, 'player_bday_day',   0) or 0
-        if bm and bd and today.month == bm and today.day == bd:
-            bday_note = "【今天是{}的生日。你知道这件事。请在对话中自然地提到，不要刻意，就像你突然想起来一样。】".format(name)
+        if   gw_val >= 500: gw_rank = "深深的羁绊"
+        elif gw_val >= 200: gw_rank = "亲密"
+        elif gw_val >= 80:  gw_rank = "熟悉"
+        elif gw_val >= 30:  gw_rank = "相识"
+        else:               gw_rank = "陌生"
+
+        if gw_val < 30:
+            rel = "你们刚认识，你不太确定对方是怎样的人。回复会很短，不会主动分享，不要表现得太熟悉。"
+        elif gw_val < 80:
+            rel = "你们见过几次面，{}来温室找过你。你开始记住一些关于{}的事，偶尔提温室里发生的事，但还是很谨慎。".format(name, name)
+        elif gw_val < 200:
+            rel = "你们比较熟悉，{}是温室里的常客。你会主动分享温室的事，记住了{}说过的很多事，虽然没提过你记住了。".format(name, name)
+        elif gw_val < 500:
+            rel = "你们很亲近，{}对你来说是温室里的一部分了，不在就会注意到。你信任{}，这对你来说不容易。".format(name, name)
         else:
-            bday_note = ""
+            rel = "你们有很深的羁绊，{}让温室变成了另一种地方。你几乎不再设防，你知道{}会在这里，这让很多事变得轻了一些。".format(name, name)
+
+        today = _dt2.date.today()
+        bm = getattr(persistent, 'player_bday_month', 0) or 0
+        bd = getattr(persistent, 'player_bday_day',   0) or 0
+        bday = "【今天是{}的生日。请在对话中自然地提到，不要刻意，就像你突然想起来一样。】".format(name) if (bm and bd and today.month==bm and today.day==bd) else ""
 
         _base = _fetch_system_prompt_from_github()
         try:
             return _base.format(
                 player_name=name,
-                gw_wakaba=gw_w,
-                gw_rank=rank,
+                gw_wakaba=gw_val,
+                gw_rank=gw_rank,
                 time_period=period,
-                birthday_note=bday_note,
+                birthday_note=bday,
                 relationship_detail=rel,
             )
         except:
             return _base
 
-    # ── 工具解析与执行 ─────────────────────────────────────────
-    def _parse_and_execute_tools(text):
-        """从AI回复中解析[TOOL:xxx:yyy]并执行对应操作"""
-        import re
-        tools = re.findall(r'\[TOOL:(\w+):([^\]]*)\]', text)
-        clean_text = re.sub(r'\[TOOL:[^\]]*\]', '', text).strip()
-
-        for tool, param in tools:
-            try:
-                _execute_tool(tool, param)
-            except Exception as e:
-                pass
-
-        return clean_text, tools
-
-    def _execute_tool(tool, param):
-        """执行游戏内操作"""
-        if tool == "white_noise":
-            # 频道名映射到id
-            ch_map = {
-                "雨中的雨":   "rain1",
-                "雨中漫步":   "rain2",
-                "雪中小屋":   "snow",
-                "雨中温室":   "greenhouse",
-                "键盘声":     "keyboard",
-                "吉他D大调":  "guitar_d",
-                "吉他B小调":  "guitar_b",
-            }
-            ch_id = ch_map.get(param, "rain1")
-            renpy.invoke_in_main_thread(wn_play_channel, ch_id)
-
-        elif tool == "stop_noise":
-            renpy.invoke_in_main_thread(wn_stop)
-
-        elif tool == "pomodoro":
-            try:
-                mins = int(param)
-            except:
-                mins = 25
-            renpy.invoke_in_main_thread(_ai_start_pomodoro, mins)
-
-        elif tool == "wallpaper":
-            renpy.invoke_in_main_thread(_ai_random_wallpaper)
-
-        elif tool == "diary":
-            renpy.invoke_in_main_thread(_ai_open_diary)
-
-    def _ai_start_pomodoro(mins):
-        store.phone_current_view = "greenhouse"
-        renpy.notify("番茄钟已设置为 {} 分钟".format(mins))
-
-    def _ai_random_wallpaper():
-        import random
-        wps = list(persistent.unlocked_wallpapers or ["images/musuoping.png"])
-        if wps:
-            persistent.phone_bg = random.choice(wps)
-            renpy.save_persistent()
-            renpy.notify("壁纸已切换")
-
-    def _ai_open_diary():
-        store.phone_current_view = "diary"
-        store.phone_open = True
-
-    # ── 主对话函数 ─────────────────────────────────────────────
     def _do_ai_chat(user_msg):
-        store._ai_thinking = True
-        store._ai_error    = ""
-        renpy.restart_interaction()
-
-        api_key  = persistent.ai_api_key or ""
-        base_url = persistent.ai_base_url or "https://api.siliconflow.cn/v1"
-        model    = persistent.ai_model    or "Qwen/Qwen2.5-7B-Instruct"
-
-        if not api_key:
-            store._ai_error   = "请先在设置中填写API Key"
-            store._ai_thinking = False
-            renpy.restart_interaction()
-            return
-
-        # 构建消息列表
-        history = list(persistent.ai_chat_history or [])[-30:]  # 最近30条
-        messages = [{"role": "system", "content": _build_system_prompt()}]
-        messages += history
-        messages.append({"role": "user", "content": user_msg})
-
-        body = _json.dumps({
-            "model":           model,
-            "messages":        messages,
-            "max_tokens":      300,
-            "temperature":     0.75,
-            "frequency_penalty": 0.3,
-            "presence_penalty":  0.2,
-        }).encode("utf-8")
-
-        headers = {
-            "Content-Type":  "application/json",
-            "Authorization": "Bearer " + api_key,
-        }
-        url = base_url.rstrip("/") + "/chat/completions"
-        req = urllib.request.Request(url, data=body, headers=headers, method="POST")
-
-        try:
-            with urllib.request.urlopen(req, timeout=30, context=_ai_ssl_ctx) as r:
-                resp = _json.loads(r.read().decode("utf-8"))
-            raw_reply = resp["choices"][0]["message"]["content"]
-        except urllib.error.HTTPError as e:
-            err = e.read().decode("utf-8")[:80]
-            store._ai_error    = "请求失败：" + err
-            store._ai_thinking = False
-            renpy.restart_interaction()
-            return
-        except Exception as e:
-            store._ai_error    = "连接失败：" + str(e)[:60]
-            store._ai_thinking = False
-            renpy.restart_interaction()
-            return
-
-        # 解析工具调用
-        clean_reply, tools = _parse_and_execute_tools(raw_reply)
-
-        # 更新对话历史（本地）
-        hist = list(persistent.ai_chat_history or [])
-        hist.append({"role": "user",      "content": user_msg})
-        hist.append({"role": "assistant", "content": clean_reply})
-        # 只保留最近50条
-        persistent.ai_chat_history = hist[-50:]
-
-        # 好感度奖励：每次成功对话+0.5，每天最多10点
-        import datetime as _dt_ai
-        _today_str = str(_dt_ai.date.today())
-        _ai_gw_key = "ai_gw_date"
-        _ai_gw_count_key = "ai_gw_count"
-        _last_date = getattr(persistent, _ai_gw_key, "")
-        _today_count = getattr(persistent, _ai_gw_count_key, 0) if _last_date == _today_str else 0
-        if _today_count < 10:
-            _gw_add = min(0.5, 10 - _today_count)
-            if hasattr(persistent, 'gw_wakaba'):
-                persistent.gw_wakaba = float(persistent.gw_wakaba or 0) + _gw_add
-            setattr(persistent, _ai_gw_key, _today_str)
-            setattr(persistent, _ai_gw_count_key, _today_count + _gw_add)
-
-        renpy.save_persistent()
-
-        store._ai_last_reply = clean_reply
-        store._ai_thinking   = False
-
-        # 如果有工具触发，加一条提示
-        if tools:
-            tool_names = {"white_noise": "白噪音已开启", "stop_noise": "白噪音已关闭",
-                          "pomodoro": "番茄钟已启动", "wallpaper": "壁纸已切换",
-                          "diary": "日记已打开"}
-            notices = [tool_names.get(t, t) for t, _ in tools]
-            store._ai_tool_notice = "  ·  ".join(notices)
-        else:
-            store._ai_tool_notice = ""
-
-        renpy.restart_interaction()
-
-    def ai_chat_send(user_msg):
-        if not user_msg or not user_msg.strip():
-            return
-        msg = user_msg.strip()
-        store._ai_input_text = ""
-        t = threading.Thread(target=_do_ai_chat, args=(msg,))
-        t.daemon = True
-        t.start()
-
-    def ai_chat_clear():
-        persistent.ai_chat_history = []
-        store._ai_last_reply   = ""
-        store._ai_error        = ""
-        store._ai_tool_notice  = ""
-        renpy.save_persistent()
-        renpy.restart_interaction()
-
-    # ── 云端同步对话记录 ───────────────────────────────────────
-    def _ai_sync_history_to_cloud():
-        """把最近50条对话记录同步到Supabase"""
-        if not (persistent.cloud_token and persistent.cloud_user_id):
-            return
-        hist = list(persistent.ai_chat_history or [])
-        if not hist:
-            return
-        try:
-            from cloud_save import SUPA_URL, SUPA_KEY, _ssl_ctx as _c_ssl
-        except:
-            SUPA_URL = "https://aowirdvoxzmahnhnnhdc.supabase.co"
-            SUPA_KEY = "sb_publishable_HmCxjel52bzP7mGfXIJhAA_gs8xnt_A"
-            _c_ssl   = _ai_ssl_ctx
-
-        # 先删旧记录，再插新记录
-        _del_h = {
-            "apikey":        SUPA_KEY,
-            "Authorization": "Bearer " + persistent.cloud_token,
-        }
-        _del_req = urllib.request.Request(
-            SUPA_URL + "/rest/v1/chat_history?user_id=eq." + persistent.cloud_user_id,
-            headers=_del_h, method="DELETE"
-        )
-        try:
-            with urllib.request.urlopen(_del_req, timeout=10, context=_ai_ssl_ctx) as r:
-                r.read()
-        except:
-            pass
-
-        # 批量插入
-        rows = [{"user_id": persistent.cloud_user_id,
-                 "role":    m["role"],
-                 "content": m["content"]} for m in hist[-50:]]
-        _ins_h = dict(_del_h)
-        _ins_h["Content-Type"] = "application/json"
-        _ins_h["Prefer"]       = "return=minimal"
-        _ins_req = urllib.request.Request(
-            SUPA_URL + "/rest/v1/chat_history",
-            data=_json.dumps(rows).encode("utf-8"),
-            headers=_ins_h, method="POST"
-        )
-        try:
-            with urllib.request.urlopen(_ins_req, timeout=15, context=_ai_ssl_ctx) as r:
-                r.read()
-        except:
-            pass
-
-# ── Store变量 ──────────────────────────────────────────────────
-default _ai_input_text  = ""
-default _ai_last_reply  = ""
-default _ai_thinking    = False
-default _ai_error       = ""
-default _ai_tool_notice = ""
-
-
-# ==============================================================================
-# 💬 AI对话界面（手机App）
-# ==============================================================================
-
-screen phone_view_ai_chat():
-    $ _hist = list(persistent.ai_chat_history or [])
-    $ _enabled = persistent.ai_chat_enabled
-    $ _has_key = bool(persistent.ai_api_key)
-
-    vbox:
-        xfill True
-
-        # 顶部标题
-        frame:
-            xfill True ysize 54
-            background Solid("#0d1a12")
-            padding (18, 0)
-            hbox:
-                xfill True yalign 0.5
-                vbox:
-                    spacing 2 yalign 0.5
-                    text "与睦对话" size 14 color "#8FBC8F" bold True
-                    text "AI Chat" size 8 color "#4A6A4A"
-                if _hist:
-                    button:
-                        background None hover_background None
-                        yalign 0.5 xalign 1.0
-                        action Function(ai_chat_clear)
-                        text "清空" size 10 color "#ffffff33" hover_color "#ff8888"
-
-        # 内容区
-        if not _enabled:
-            frame:
-                xfill True ysize 460 background Solid("#0d1a12") padding (24, 40)
-                vbox:
-                    spacing 16 xalign 0.5 yalign 0.5
-                    text "AI对话模式未开启" size 14 color "#4A6A4A" xalign 0.5
-                    text "请前往设置开启并填写API Key" size 11 color "#4A6A4A" xalign 0.5
-                    button:
-                        xsize 160 ysize 36 xalign 0.5
-                        background Solid("#1E3A1E")
-                        hover_background Solid("#2A4A2A")
-                        action SetVariable("phone_current_view", "home")
-                        text "前往设置" align (0.5,0.5) size 12 color "#8FBC8F"
-
-        elif not _has_key:
-            frame:
-                xfill True ysize 460 background Solid("#0d1a12") padding (24, 40)
-                vbox:
-                    spacing 16 xalign 0.5 yalign 0.5
-                    text "请先填写API Key" size 14 color "#4A6A4A" xalign 0.5
-                    text "在设置 → AI对话 中配置" size 11 color "#4A6A4A" xalign 0.5
-
-        else:
-            # 对话历史
-            viewport:
-                xfill True ysize 360
-                mousewheel True scrollbars "vertical"
-                yadjustment ui.adjustment(value=float("inf"))
-                frame:
-                    xfill True background Solid("#00000000") padding (12, 12)
-                    vbox:
-                        xfill True spacing 4
-                        if not _hist:
-                            frame:
-                                xfill True background Solid("#00000000") padding (0, 40)
-                                vbox:
-                                    spacing 8 xalign 0.5
-                                    text "……" size 24 color "#4A6A4A" xalign 0.5
-                                    text "温室里有风扇的声音。" size 11 color "#4A6A4A" xalign 0.5
-                                    text "说些什么吧。" size 11 color "#4A6A4A" xalign 0.5
-
-                        for _msg in _hist[-30:]:
-                            $ _is_user = _msg["role"] == "user"
-                            $ _mcontent = str(_msg.get("content", ""))
-                            frame:
-                                xfill True background Solid("#00000000") padding (0, 4)
-                                hbox:
-                                    xfill True
-                                    if _is_user:
-                                        null xfill True
-                                    frame:
-                                        xmaximum 220
-                                        background Solid("#1E3A1E" if not _is_user else "#1a1a3a")
-                                        padding (10, 8)
-                                        text "[_mcontent]":
-                                            size 12
-                                            color ("#D8EDD8" if not _is_user else "#aaaaff")
-                                            line_spacing 4
-                                    if not _is_user:
-                                        null xfill True
-
-                        if _ai_thinking:
-                            frame:
-                                background Solid("#00000000") padding (0, 4)
-                                hbox:
-                                    frame:
-                                        background Solid("#1E3A1E") padding (10, 8)
-                                        text "……" size 12 color "#8FBC8F"
-                                    null xfill True
-
-                        if _ai_tool_notice:
-                            frame:
-                                xfill True background Solid("#0a1a0a") padding (10, 6)
-                                text "[_ai_tool_notice]":
-                                    xalign 0.5 size 10 color "#8FBC8F88"
-
-                        if _ai_error:
-                            $ _safe_err = _ai_error.replace("{","｛").replace("}","｝")
-                            frame:
-                                xfill True background Solid("#1a0a0a") padding (10, 6)
-                                text "[_safe_err]":
-                                    xalign 0.5 size 10 color "#ff8888"
-
-            # 输入区
-            frame:
-                xfill True ysize 52
-                background Solid("#0a140e")
-                padding (10, 8)
-                hbox:
-                    xfill True spacing 8 yalign 0.5
-                    frame:
-                        xfill True ysize 36
-                        background Solid("#1a2a1a") padding (10, 0)
-                        input:
-                            value VariableInputValue("_ai_input_text")
-                            color "#ffffffcc" size 12
-                            length 200
-                            xfill True
-                    button:
-                        xsize 44 ysize 36
-                        background Solid("#2A4A2A")
-                        hover_background Solid("#3A6A3A")
-                        sensitive not _ai_thinking
-                        action Function(ai_chat_send, _ai_input_text)
-                        text "发" align (0.5, 0.5) size 13 color "#8FBC8F" bold True
-
-        # 底部返回
-        frame:
-            xfill True ysize 32
-            background Solid("#0a140e")
-            padding (12, 0)
-            button:
-                action SetVariable("phone_current_view", "home")
-                xalign 0.5 yalign 0.5 xsize 80 ysize 14
-                background None hover_background None
-                add Solid("#2A4A2A") xsize 60 ysize 3 align (0.5, 0.5)
-
-
-# ==============================================================================
-# ⚙️ AI设置界面（设置页面内嵌）
-# ==============================================================================
-
-default _ai_test_result = ""
-default _ai_testing = False
-
-init python:
-    def _ai_do_test():
-        store._ai_testing = True
-        store._ai_test_result = "测试中……"
-        renpy.restart_interaction()
-        import urllib.request, json as _j, ssl
-        _ctx = ssl.create_default_context()
-        _ctx.check_hostname = False
-        _ctx.verify_mode = ssl.CERT_NONE
-        api_key  = persistent.ai_api_key or ""
+        api_key  = (persistent.ai_api_key or "").strip()
         base_url = (persistent.ai_base_url or "https://api.siliconflow.cn/v1").rstrip("/")
         model    = persistent.ai_model or "Qwen/Qwen2.5-7B-Instruct"
         if not api_key:
-            store._ai_test_result = "✗ 请先填写API Key"
-            store._ai_testing = False
-            renpy.restart_interaction()
+            store._ai_last_reply = "（请先在设置中填写API Key）"
             return
-        body = _j.dumps({"model": model, "messages": [{"role": "user", "content": "你好"}], "max_tokens": 20}).encode("utf-8")
-        req = urllib.request.Request(base_url + "/chat/completions",
+
+        history = list(getattr(persistent, 'ai_chat_history', []) or [])[-20:]
+        messages = [{"role":"system","content": _build_system_prompt()}]
+        for h in history:
+            if isinstance(h, dict) and "role" in h and "content" in h:
+                messages.append(h)
+        messages.append({"role":"user","content": user_msg})
+
+        body = _ai_json.dumps({
+            "model":       model,
+            "max_tokens":  400,
+            "temperature": 0.8,
+            "messages":    messages,
+        }).encode("utf-8")
+
+        _ctx = _ai_ssl.create_default_context()
+        _ctx.check_hostname = False
+        _ctx.verify_mode    = _ai_ssl.CERT_NONE
+
+        req = urllib.request.Request(
+            base_url + "/chat/completions",
             data=body,
-            headers={"Content-Type": "application/json", "Authorization": "Bearer " + api_key},
-            method="POST")
+            headers={"Content-Type":"application/json","Authorization":"Bearer "+api_key},
+            method="POST"
+        )
         try:
-            with urllib.request.urlopen(req, timeout=15, context=_ctx) as r:
-                data = _j.loads(r.read().decode("utf-8"))
-            reply = data["choices"][0]["message"]["content"][:20]
-            store._ai_test_result = "✓ 连接成功：" + reply
+            with urllib.request.urlopen(req, timeout=30, context=_ctx) as r:
+                data = _ai_json.loads(r.read().decode("utf-8"))
+            reply = data["choices"][0]["message"]["content"].strip()
+            store._ai_last_reply = reply
+            if not isinstance(persistent.ai_chat_history, list):
+                persistent.ai_chat_history = []
+            persistent.ai_chat_history.append({"role":"user",     "content": user_msg})
+            persistent.ai_chat_history.append({"role":"assistant","content": reply})
+            persistent.ai_chat_history = persistent.ai_chat_history[-40:]
+            renpy.save_persistent()
         except Exception as e:
-            store._ai_test_result = "✗ " + str(e)[:50]
-        store._ai_testing = False
-        renpy.restart_interaction()
+            store._ai_last_reply = "（连接失败：{}）".format(str(e)[:40])
 
-    def ai_test_connection():
-        import threading as _th
-        t = _th.Thread(target=_ai_do_test)
-        t.daemon = True
-        t.start()
-
-
-screen ai_settings_screen():
-    modal True
-    zorder 200
-
-    add Solid("#000000cc")
-
-    frame:
-        align (0.5, 0.5)
-        xsize 560
-        ymaximum 640
-        background Solid("#0a0c14f8")
-        padding (0, 0)
-
-        vbox:
-            xfill True spacing 0
-
-            # 标题栏
-            frame:
-                xfill True ysize 52
-                background Solid("#1a2a1e88") padding (20, 0)
-                hbox:
-                    xfill True yalign 0.5
-                    text "AI对话设置":
-                        size 15 color "#8FBC8F" bold True yalign 0.5
-                    button:
-                        xalign 1.0 yalign 0.5
-                        background None hover_background None
-                        action [Hide("ai_settings_screen"), SetVariable("_ai_test_result", "")]
-                        text "×" size 22 color "#ffffff55" hover_color "#ff6666"
-
-            frame:
-                xfill True ysize 1 background Solid("#8FBC8F33") padding (0,0)
-
-            # 内容区（可滚动）
-            viewport:
-                xfill True ymaximum 520
-                mousewheel True scrollbars "vertical"
-                frame:
-                    xfill True background Solid("#00000000") padding (24, 18)
-                    vbox:
-                        spacing 16 xfill True
-
-                        # ── 开关 ──
-                        frame:
-                            xfill True background Solid("#1a1200cc") padding (14, 10)
-                            hbox:
-                                xfill True yalign 0.5
-                                vbox:
-                                    spacing 2 yalign 0.5
-                                    hbox:
-                                        spacing 8
-                                        text "AI对话模式" size 13 color "#D8EDD8" bold True yalign 0.5
-                                        frame:
-                                            background Solid("#cc880044") padding (6, 2)
-                                            text "测试中" size 9 color "#ffcc44" bold True
-                                    text "功能仍在完善中，回复质量可能不稳定" size 10 color "#ffcc4488"
-                                    text "开启后聊天按钮变为AI对话 · 人格锁定为若叶睦" size 10 color "#ffffff44"
-                                null xfill True
-                                $ _ai_on = persistent.ai_chat_enabled
-                                button:
-                                    xsize 80 ysize 32
-                                    background Solid("#2A4A2A" if _ai_on else "#1a2a1a")
-                                    hover_background Solid("#3A6A3A")
-                                    action ToggleField(persistent, "ai_chat_enabled")
-                                    text ("已开启 ✓" if _ai_on else "已关闭"):
-                                        align (0.5, 0.5) size 11
-                                        color ("#8FBC8F" if _ai_on else "#ffffff55")
-
-                        # AI主动对话开关（M0.32开放）
-                        # frame:
-                        #     xfill True background Solid("#ffffff08") padding (14, 10)
-                        #     text "AI主动对话（M0.32开放）" size 11 color "#ffffff33"
-
-                        # ── API Key ──
-                        vbox:
-                            spacing 6
-                            text "API Key" size 12 color "#8FBC8F" bold True
-                            hbox:
-                                xsize 500 spacing 6
-                                button:
-                                    xsize 420 ysize 38
-                                    background Solid("#0d1210")
-                                    hover_background Solid("#1a2a1a")
-                                    action Function(renpy.invoke_in_new_context, _ai_input_api_key)
-                                    padding (12, 0)
-                                    $ _k = persistent.ai_api_key or ""
-                                    $ _k_disp = ("●" * 8 + "…" + _k[-4:]) if len(_k) > 4 else ("点击输入…" if not _k else "●" * len(_k))
-                                    text "[_k_disp]" yalign 0.5 size 12 color ("#ffffffcc" if _k else "#ffffff33")
-                                button:
-                                    xsize 74 ysize 38
-                                    background Solid("#1E3A1E")
-                                    hover_background Solid("#2A4A2A")
-                                    action Function(_ai_paste_from_clipboard, "persistent.ai_api_key")
-                                    text "粘贴" align (0.5, 0.5) size 12 color "#8FBC8F" bold True
-
-                        # ── API地址 ──
-                        vbox:
-                            spacing 6
-                            text "API地址（默认硅基流动）" size 12 color "#8FBC8F" bold True
-                            hbox:
-                                xsize 500 spacing 6
-                                button:
-                                    xsize 420 ysize 38
-                                    background Solid("#0d1210")
-                                    hover_background Solid("#1a2a1a")
-                                    action Function(renpy.invoke_in_new_context, _ai_input_base_url)
-                                    padding (12, 0)
-                                    $ _url = persistent.ai_base_url or "https://api.siliconflow.cn/v1"
-                                    text "[_url]" yalign 0.5 size 10 color "#ffffffcc"
-                                button:
-                                    xsize 74 ysize 38
-                                    background Solid("#1E3A1E")
-                                    hover_background Solid("#2A4A2A")
-                                    action Function(_ai_paste_from_clipboard, "persistent.ai_base_url")
-                                    text "粘贴" align (0.5, 0.5) size 12 color "#8FBC8F" bold True
-
-                        # ── 模型 ──
-                        vbox:
-                            spacing 6
-                            text "模型" size 12 color "#8FBC8F" bold True
-                            vbox:
-                                spacing 5
-                                $ _model_list = [
-                                    ("Qwen/Qwen2.5-7B-Instruct",   "Qwen2.5-7B（轻量·推荐新手·速度快）"),
-                                    ("Qwen/Qwen2.5-72B-Instruct",  "Qwen2.5-72B（效果好·稍慢）"),
-                                    ("deepseek-ai/DeepSeek-V3",    "DeepSeek-V3（综合最强·推荐）"),
-                                    ("Pro/deepseek-ai/DeepSeek-V3","DeepSeek-V3 Pro（稳定版·用量消耗较多）"),
-                                ]
-                                for _m, _desc in _model_list:
-                                    $ _m_active = (persistent.ai_model == _m)
-                                    button:
-                                        xfill True ysize 36
-                                        background Solid("#2A4A2A" if _m_active else "#0d1210")
-                                        hover_background Solid("#3A6A3A")
-                                        action SetField(persistent, "ai_model", _m)
-                                        padding (12, 0)
-                                        hbox:
-                                            xfill True yalign 0.5 spacing 8
-                                            vbox:
-                                                spacing 1 yalign 0.5
-                                                text "[_desc]":
-                                                    size 11
-                                                    color ("#8FBC8F" if _m_active else "#ffffffaa")
-                                            if _m_active:
-                                                text "✓" size 13 color "#8FBC8F" yalign 0.5 xalign 1.0
-
-                                # 自定义模型名称
-                                $ _known = [m for m,_ in _model_list]
-                                $ _custom_on = persistent.ai_model not in _known
-                                frame:
-                                    xfill True
-                                    background Solid("#2A4A2A" if _custom_on else "#0d1210")
-                                    padding (10, 6)
-                                    vbox:
-                                        spacing 4
-                                        text "自定义模型名称" size 11 color "#8FBC8F"
-                                        hbox:
-                                            xfill True spacing 8
-                                            frame:
-                                                xfill True ysize 32
-                                                background Solid("#1a2a1a") padding (8, 0)
-                                                input:
-                                                    value VariableInputValue("persistent.ai_model")
-                                                    color "#ffffffcc" size 11
-                                                    length 80
-                                                    yalign 0.5
-                                            button:
-                                                xsize 56 ysize 32
-                                                background Solid("#1E3A1E")
-                                                hover_background Solid("#2A4A2A")
-                                                action Function(_ai_paste_from_clipboard, "persistent.ai_model")
-                                                text "粘贴" align (0.5,0.5) size 11 color "#8FBC8F"
-
-                        # ── 测试连接 ──
-                        vbox:
-                            spacing 8
-                            hbox:
-                                spacing 12 xalign 0.5
-                                button:
-                                    xsize 140 ysize 36
-                                    background Solid("#1a3a1a")
-                                    hover_background Solid("#2A4A2A")
-                                    sensitive not _ai_testing
-                                    action Function(ai_test_connection)
-                                    text ("测试中…" if _ai_testing else "🔌 测试连接"):
-                                        align (0.5, 0.5) size 12 color "#8FBC8F" bold True
-                                button:
-                                    xsize 100 ysize 36
-                                    background Solid("#ffffff0e")
-                                    hover_background Solid("#ffffff22")
-                                    action [Hide("ai_settings_screen"), SetVariable("_ai_test_result", "")]
-                                    text "完成" align (0.5, 0.5) size 13 color "#aaaaaa"
-
-                            if _ai_test_result:
-                                $ _tr_safe = _ai_test_result.replace("{","｛").replace("}","｝")
-                                frame:
-                                    xfill True background Solid("#ffffff08") padding (12, 8)
-                                    text "[_tr_safe]":
-                                        xalign 0.5 size 11 line_spacing 4
-                                        color ("#8FBC8F" if "✓" in _ai_test_result else "#ff8888")
-
-                        frame:
-                            xfill True background Solid("#ffffff06") padding (12, 8)
-                            vbox:
-                                spacing 6
-                                text "硅基流动：注册即送免费额度，支持多种模型" size 10 color "#ffffff44"
-                                text "也支持其他兼容OpenAI格式的API" size 10 color "#ffffff44"
-                                button:
-                                    xsize 220 ysize 28 xalign 0.0
-                                    background Solid("#1E3A1E")
-                                    hover_background Solid("#2A4A2A")
-                                    action OpenURL("https://cloud.siliconflow.cn/i/1mYH197r")
-                                    text "🔗 前往硅基流动获取API Key" align (0.5, 0.5) size 10 color "#8FBC8F"
-
-
-init python:
-    def _ai_input_api_key():
-        renpy.call_screen("ai_input_screen",
-            prompt="输入API Key",
-            var_name="persistent.ai_api_key",
-            default=persistent.ai_api_key or "",
-            length=200)
-
-    def _ai_input_base_url():
-        renpy.call_screen("ai_input_screen",
-            prompt="输入API地址",
-            var_name="persistent.ai_base_url",
-            default=persistent.ai_base_url or "https://api.siliconflow.cn/v1",
-            length=100)
-
-    def _ai_paste_from_clipboard(var_name):
-        """从剪贴板粘贴内容到指定变量"""
-        try:
-            import pygame
-            text = pygame.scrap.get(pygame.SCRAP_TEXT)
-            if text:
-                if isinstance(text, bytes):
-                    text = text.decode("utf-8", errors="ignore").rstrip("\x00")
-                if var_name == "persistent.ai_api_key":
-                    persistent.ai_api_key = text.strip()
-                    renpy.save_persistent()
-                elif var_name == "persistent.ai_base_url":
-                    persistent.ai_base_url = text.strip()
-                    renpy.save_persistent()
-                renpy.notify("已粘贴")
-                renpy.restart_interaction()
-        except Exception as e:
-            renpy.notify("粘贴失败：" + str(e)[:30])
-
-
-screen ai_input_screen(prompt, var_name, default="", length=200):
-    modal True
-    zorder 400
-
-    add Solid("#000000bb")
-
-    frame:
-        align (0.5, 0.4)
-        xsize 560 ysize 220
-        background Solid("#0a0c14f8")
-        padding (0, 0)
-
-        vbox:
-            xfill True spacing 0
-
-            frame:
-                xfill True ysize 48
-                background Solid("#1a2a1e88") padding (20, 0)
-                text "[prompt]":
-                    yalign 0.5 size 14 color "#8FBC8F" bold True
-
-            frame:
-                xfill True ysize 1 background Solid("#8FBC8F33") padding (0,0)
-
-            frame:
-                xfill True background Solid("#00000000") padding (24, 18)
-                vbox:
-                    spacing 14
-                    frame:
-                        xfill True ysize 40
-                        background Solid("#0d1210") padding (12, 0)
-                        input:
-                            value VariableInputValue(var_name)
-                            default default
-                            length length
-                            color "#ffffffcc" size 13
-                            xfill True
-
-                    hbox:
-                        spacing 12 xalign 0.5
-                        button:
-                            xsize 140 ysize 36
-                            background Solid("#1E3A1E44")
-                            hover_background Solid("#2A4A2A")
-                            action Return()
-                            text "确认" align (0.5, 0.5) size 14 color "#8FBC8F" bold True
-                        button:
-                            xsize 100 ysize 36
-                            background Solid("#ffffff0e")
-                            hover_background Solid("#ffffff22")
-                            action [SetVariable(var_name, default), Return()]
-                            text "取消" align (0.5, 0.5) size 14 color "#aaaaaa"
-
-
-# ==============================================================================
-# ==============================================================================
-# 💬 游戏内AI对话（使用游戏内置对话框和m1角色）
-# ==============================================================================
-
-default _ai_chatting = False
-default _ai_ingame_thinking = False
-default _ai_ingame_reply    = ""
-default _ai_chat_user_input = ""
-default _ai_segments        = []
-default _ai_reply_done      = False
-default _ai_reply_raw       = ""
-
-init python:
-    import threading as _ai_th
-    import time as _ai_time
-
-    def _ai_fetch_reply_sync(msg):
-        """启动AI请求线程，返回线程对象（不阻塞）"""
-        store._ai_reply_done = False
-        store._ai_reply_raw  = ""
-        def _do():
-            try:
-                _do_ai_chat(msg)
-                store._ai_reply_raw  = store._ai_last_reply or ""
-            except:
-                store._ai_reply_raw  = ""
-            store._ai_reply_done = True
-        t = _ai_th.Thread(target=_do)
-        t.daemon = True
-        t.start()
-        return t
-
-
-label ai_chat_loop:
-    $ _ai_chatting = True
-    $ renpy.show_screen("ai_chat_overlay_screen")
-    $ renpy.restart_interaction()
-
-    # 等待玩家输入（非阻塞）
-    while True:
-        $ renpy.pause(0.1)
-        if not _ai_chatting:
-            jump sjdh
-        if _ai_reply_done and _ai_reply_raw:
-            # 解析好感度指令并清除
-            python:
-                import re as _re2
-                _raw = store._ai_reply_raw
-
-                # 解析 [GW:+N] 或 [GW:-N] 指令
-                _gw_matches = _re2.findall(r'\[GW:([+-]?\d+(?:\.\d+)?)\]', _raw)
-                for _gw_m in _gw_matches:
-                    try:
-                        _gw_delta = float(_gw_m)
-                        _cur_gw = float(getattr(persistent, 'gw_wakaba', 0) or 0)
-                        persistent.gw_wakaba = max(0, _cur_gw + _gw_delta)
-                        renpy.save_persistent()
-                    except:
-                        pass
-
-                # 清除指令标记，保留正文
-                _clean = _re2.sub(r'\[GW:[^\]]+\]', '', _raw).strip()
-                # 清除TOOL标记
-                _clean = _re2.sub(r'\[TOOL:[^\]]+\]', '', _clean).strip()
-                # 转义Ren'Py特殊字符
-                _clean = _clean.replace("{","｛").replace("}","｝").replace("[","［").replace("]","］")
-
-                store._ai_display_reply = _clean
-                store._ai_reply_raw   = ""
-                store._ai_reply_done  = False
-                store._ai_thinking    = False
-
-        if _ai_display_reply:
-            $ renpy.restart_interaction()
-        $ renpy.pause(0.1)
-
-
-label ai_chat_send_msg(msg):
-    if not msg.strip():
-        return
-
-    $ store._ai_display_reply = ""
-    $ store._ai_thinking      = True
-    $ store._ai_reply_done    = False
-    $ store._ai_reply_raw     = ""
-
-    python:
-        import threading as _ai_th3
-        def _ai_do3():
-            try:
-                _do_ai_chat(msg)
-                store._ai_reply_raw = store._ai_last_reply or ""
-            except:
-                store._ai_reply_raw = ""
-            store._ai_reply_done = True
-        t3 = _ai_th3.Thread(target=_ai_do3)
-        t3.daemon = True
-        t3.start()
-
-    return
-
-
-# ══ 悬浮聊天窗（参考妹居风格，底部三分之一，不全屏） ══
-
-default _ai_display_reply = ""
-default _ai_input_buf     = ""
-default _ai_chat_log      = []
-
-init python:
     def _ai_send_from_screen():
         msg = (store._ai_input_buf or "").strip()
         if not msg:
             return
-        _safe_msg = msg.replace("{","｛").replace("}","｝").replace("[","［").replace("]","］")
+        if not getattr(persistent, 'gw_wakaba_session_start', None):
+            persistent.gw_wakaba_session_start = float(getattr(persistent,'gw_wakaba',0) or 0)
+        safe = msg.replace("{","｛").replace("}","｝").replace("[","［").replace("]","］")
         if not isinstance(store._ai_chat_log, list):
             store._ai_chat_log = []
-        store._ai_chat_log.append(("user", _safe_msg))
+        store._ai_chat_log.append(("user", safe))
         store._ai_chat_log = store._ai_chat_log[-20:]
         store._ai_input_buf  = ""
         store._ai_thinking   = True
         store._ai_reply_done = False
         store._ai_reply_raw  = ""
-
-        import threading as _ai_th4, re as _re4
-        def _ai_do4():
+        import threading as _t4, re as _r4
+        def _do():
             try:
                 _do_ai_chat(msg)
                 raw = store._ai_last_reply or ""
             except:
                 raw = ""
-            gw_matches = _re4.findall(r'\[GW:([+-]?\d+(?:\.\d+)?)\]', raw)
-            for gw_m in gw_matches:
+            for m in _r4.findall(r'\[GW:([+-]?\d+(?:\.\d+)?)\]', raw):
                 try:
-                    delta = float(gw_m)
-                    cur = float(getattr(persistent, 'gw_wakaba', 0) or 0)
-                    persistent.gw_wakaba = max(0, cur + delta)
+                    d = float(m)
+                    cur = float(getattr(persistent,'gw_wakaba',0) or 0)
+                    persistent.gw_wakaba = max(0, cur + d)
                     renpy.save_persistent()
                 except:
                     pass
-            clean = _re4.sub(r'\[GW:[^\]]+\]', '', raw)
-            clean = _re4.sub(r'\[TOOL:[^\]]+\]', '', clean).strip()
+            clean = _r4.sub(r'\[GW:[^\]]+\]', '', raw)
+            clean = _r4.sub(r'\[TOOL:[^\]]+\]', '', clean).strip()
             clean = clean.replace("{","｛").replace("}","｝").replace("[","［").replace("]","］")
             if clean:
                 store._ai_chat_log.append(("mutsumi", clean))
                 store._ai_chat_log = store._ai_chat_log[-20:]
             store._ai_display_reply = clean
-            store._ai_reply_done    = True
             store._ai_thinking      = False
+            store._ai_reply_done    = True
             renpy.restart_interaction()
-        t4 = _ai_th4.Thread(target=_ai_do4)
-        t4.daemon = True
-        t4.start()
+        _t4.Thread(target=_do, daemon=True).start()
+
+    def _ai_do_test():
+        store._ai_testing     = True
+        store._ai_test_result = ""
+        import threading as _tt
+        def _t():
+            _do_ai_chat("你好")
+            store._ai_test_result = store._ai_last_reply or "（无回复）"
+            store._ai_testing     = False
+            renpy.restart_interaction()
+        _tt.Thread(target=_t, daemon=True).start()
+
+
+# ── AI设置界面 ──
+screen ai_settings_screen():
+    modal True
+    zorder 200
+    add Solid("#000000aa")
+    frame:
+        align (0.5, 0.5) xsize 700 ysize 640
+        background Solid("#1a1a2a")
+        padding (30, 24)
+        vbox:
+            xfill True spacing 14
+            hbox:
+                xfill True
+                text "⚙ AI对话设置" size 16 color "#d4c8ff" bold True yalign 0.5
+                null xfill True
+                button:
+                    xsize 36 ysize 36
+                    background None hover_background Solid("#ffffff11")
+                    action Hide("ai_settings_screen")
+                    text "×" align (0.5,0.5) size 20 color "#ffffff66" hover_color "#ff6666"
+            frame:
+                xfill True background Solid("#1a1200cc") padding (14,10)
+                hbox:
+                    xfill True yalign 0.5
+                    vbox:
+                        spacing 2 yalign 0.5
+                        hbox:
+                            spacing 8
+                            text "AI对话模式" size 13 color "#D8EDD8" bold True yalign 0.5
+                            frame:
+                                background Solid("#cc880044") padding (6,2)
+                                text "测试中" size 9 color "#ffcc44" bold True
+                        text "功能仍在完善中，回复质量可能不稳定" size 10 color "#ffcc4488"
+                        text "开启后聊天按钮变为AI对话 · 人格锁定为若叶睦" size 10 color "#ffffff44"
+                    null xfill True
+                    $ _ai_on = getattr(persistent,'ai_chat_enabled',False)
+                    button:
+                        xsize 60 ysize 28 yalign 0.5
+                        background Solid("#2a4a2a" if _ai_on else "#2a2a2a")
+                        hover_background Solid("#3a6a3a" if _ai_on else "#3a3a3a")
+                        action ToggleField(persistent,"ai_chat_enabled")
+                        text ("开启" if _ai_on else "关闭") align (0.5,0.5) size 12 color ("#88cc88" if _ai_on else "#888888")
+            frame:
+                xfill True background Solid("#ffffff08") padding (14,10)
+                vbox:
+                    spacing 6 xfill True
+                    text "API Key" size 11 color "#ffffff66"
+                    frame:
+                        xfill True ysize 36 background Solid("#ffffff11") padding (10,0)
+                        input:
+                            value FieldInputValue(persistent,"ai_api_key")
+                            color "#ffffffcc" size 13
+                            length 200 yalign 0.5
+            frame:
+                xfill True background Solid("#ffffff08") padding (14,10)
+                vbox:
+                    spacing 6 xfill True
+                    text "Base URL" size 11 color "#ffffff66"
+                    frame:
+                        xfill True ysize 36 background Solid("#ffffff11") padding (10,0)
+                        input:
+                            value FieldInputValue(persistent,"ai_base_url")
+                            color "#ffffffcc" size 13
+                            length 200 yalign 0.5
+            frame:
+                xfill True background Solid("#ffffff08") padding (14,10)
+                vbox:
+                    spacing 8 xfill True
+                    text "模型" size 11 color "#ffffff66"
+                    for _m in ["Qwen/Qwen2.5-7B-Instruct","Qwen/Qwen2.5-72B-Instruct","deepseek-ai/DeepSeek-V3","deepseek-ai/DeepSeek-V3-0324"]:
+                        $ _sel = (getattr(persistent,'ai_model','') == _m)
+                        button:
+                            xfill True ysize 32
+                            background Solid("#2a4a2a" if _sel else "#ffffff08")
+                            hover_background Solid("#3a6a3a")
+                            action SetField(persistent,"ai_model",_m)
+                            text "[_m]" size 11 color ("#88cc88" if _sel else "#ffffffcc") yalign 0.5 xpos 8
+            frame:
+                xfill True background Solid("#ffffff08") padding (14,10)
+                hbox:
+                    xfill True yalign 0.5 spacing 12
+                    button:
+                        xsize 100 ysize 32 yalign 0.5
+                        background Solid("#2a2a4a") hover_background Solid("#3a3a6a")
+                        sensitive not _ai_testing
+                        action Function(_ai_do_test)
+                        text ("测试中…" if _ai_testing else "测试连接") align (0.5,0.5) size 11 color "#d4c8ff"
+                    if _ai_test_result:
+                        $ _safe_tr = _ai_test_result[:60].replace("{","｛").replace("}","｝")
+                        text "[_safe_tr]" size 11 color "#88cc88" yalign 0.5
 
 
 screen ai_chat_overlay_screen():
     zorder 110
     modal False
 
-    # 用style "empty"完全断掉样式继承，从零开始
+    on "show" action [SetField(persistent, "gw_wakaba_session_start", None),
+                     SetVariable("_ai_chat_log", []),
+                     SetVariable("_ai_thinking", False),
+                     SetVariable("_ai_display_reply", ""),
+                     SetVariable("_ai_input_buf", "")]
+
     frame:
         style "empty"
         xalign 0.5 yalign 1.0 yoffset -8
-        xsize 1100 ysize 370
+        xsize 1100 ysize 380
         background Solid("#fffffff2")
 
-        vbox:
+        hbox:
             style "empty"
-            xfill True spacing 0
+            xfill True yfill True spacing 0
 
-            # 标题栏
+            vbox:
+                style "empty"
+                xsize 860 yfill True spacing 0
+
+                frame:
+                    style "empty"
+                    xfill True ysize 38
+                    background Solid("#ece6de")
+                    padding (12, 0)
+                    hbox:
+                        style "empty"
+                        xfill True yalign 0.5
+                        frame:
+                            style "empty"
+                            xsize 26 ysize 26 yalign 0.5
+                            background Solid("#8FBC8F")
+                            text "睦":
+                                style "empty"
+                                font "gui/font/harmonyossans.ttf"
+                                size 12 color "#ffffff" bold False
+                                xalign 0.5 yalign 0.5
+                        null width 8
+                        null xfill True
+                        text "与若叶睦聊天中":
+                            style "empty"
+                            font "gui/font/harmonyossans.ttf"
+                            size 12 color "#555555" bold False
+                            yalign 0.5
+                        null xfill True
+                        button:
+                            style "empty"
+                            xsize 72 ysize 26 yalign 0.5
+                            background Solid("#ffdddd")
+                            hover_background Solid("#ffbbbb")
+                            action [SetVariable("_ai_chatting", False),
+                                    SetVariable("_ai_display_reply", ""),
+                                    SetVariable("_ai_thinking", False),
+                                    SetField(persistent, "gw_wakaba_session_start", None),
+                                    Hide("ai_chat_overlay_screen")]
+                            text "结束对话":
+                                style "empty"
+                                font "gui/font/harmonyossans.ttf"
+                                size 11 color "#cc3333" bold False
+                                xalign 0.5 yalign 0.5
+
+                frame:
+                    style "empty"
+                    xfill True ysize 282
+                    background Solid("#fafafa")
+
+                    viewport:
+                        style "empty"
+                        xsize 840 ysize 282
+                        xpos 10
+                        mousewheel True
+                        scrollbars "vertical"
+                        vbox:
+                            style "empty"
+                            xfill True spacing 6
+
+                            null height 8
+
+                            for _role, _msg in _ai_chat_log:
+                                if _role == "mutsumi":
+                                    frame:
+                                        style "empty"
+                                        xfill True bottom_margin 2
+                                        vbox:
+                                            style "empty"
+                                            xmaximum 660 spacing 2
+                                            text "若叶睦":
+                                                style "empty"
+                                                font "gui/font/harmonyossans.ttf"
+                                                size 10 color "#6a9c6a" bold False
+                                            frame:
+                                                style "empty"
+                                                background Solid("#e8f5e8")
+                                                left_padding 10 right_padding 10 top_padding 6 bottom_padding 6
+                                                text "[_msg]":
+                                                    style "empty"
+                                                    font "gui/font/harmonyossans.ttf"
+                                                    size 13 color "#333333" bold False
+                                                    line_spacing 4
+                                elif _role == "user":
+                                    frame:
+                                        style "empty"
+                                        xfill True bottom_margin 2
+                                        vbox:
+                                            style "empty"
+                                            xmaximum 660 spacing 2
+                                            xalign 1.0
+                                            text "我":
+                                                style "empty"
+                                                font "gui/font/harmonyossans.ttf"
+                                                size 10 color "#6666aa" bold False
+                                                xalign 1.0
+                                            frame:
+                                                style "empty"
+                                                background Solid("#eeeeff")
+                                                padding (10, 6)
+                                                xalign 1.0
+                                                text "[_msg]":
+                                                    style "empty"
+                                                    font "gui/font/harmonyossans.ttf"
+                                                    size 13 color "#333333" bold False
+                                                    line_spacing 4
+
+                            if _ai_thinking:
+                                frame:
+                                    style "empty"
+                                    xfill True
+                                    frame:
+                                        style "empty"
+                                        background Solid("#e8f5e8")
+                                        left_padding 10 right_padding 10 top_padding 6 bottom_padding 6
+                                        text "……":
+                                            style "empty"
+                                            font "gui/font/harmonyossans.ttf"
+                                            size 13 color "#6a9c6a" bold False
+
+                frame:
+                    style "empty"
+                    xfill True ysize 1
+                    background Solid("#dddddd")
+
+                frame:
+                    style "empty"
+                    xfill True ysize 58
+                    background Solid("#ffffff")
+                    left_padding 10 right_padding 10 top_padding 8 bottom_padding 8
+                    hbox:
+                        style "empty"
+                        xfill True yalign 0.5 spacing 0
+                        frame:
+                            style "empty"
+                            xsize 786 ysize 36 yalign 0.5
+                            background Solid("#f0f0f0")
+                            left_padding 10 right_padding 10
+                            input:
+                                style "empty"
+                                value VariableInputValue("_ai_input_buf")
+                                color "#333333" size 13
+                                font "gui/font/harmonyossans.ttf"
+                                length 200 yalign 0.5
+                        button:
+                            style "empty"
+                            xsize 60 ysize 36 yalign 0.5
+                            background Solid("#8FBC8F")
+                            hover_background Solid("#6a9c6a")
+                            sensitive not _ai_thinking
+                            action Function(_ai_send_from_screen)
+                            text "发送":
+                                style "empty"
+                                font "gui/font/harmonyossans.ttf"
+                                size 12 color "#ffffff" bold False
+                                xalign 0.5 yalign 0.5
+
             frame:
                 style "empty"
-                xfill True ysize 38
-                background Solid("#ece6de")
-                left_padding 12 right_padding 12
+                xsize 240 yfill True
+                background Solid("#f0ede8")
+                left_padding 14 right_padding 14 top_padding 14 bottom_padding 14
 
-                hbox:
+                vbox:
                     style "empty"
-                    xfill True yalign 0.5
+                    xfill True spacing 10
 
-                    # 左侧头像
+                    text "若叶睦":
+                        style "empty"
+                        font "gui/font/harmonyossans.ttf"
+                        size 13 color "#444444" bold False
+                        xalign 0.5
+
                     frame:
                         style "empty"
-                        xsize 26 ysize 26 yalign 0.5
+                        xsize 60 ysize 60 xalign 0.5
                         background Solid("#8FBC8F")
                         text "睦":
                             style "empty"
                             font "gui/font/harmonyossans.ttf"
-                            size 12 color "#ffffff" bold False
+                            size 28 color "#ffffff" bold False
                             xalign 0.5 yalign 0.5
 
-                    null width 8
-
-                    # 标题居中
-                    null xfill True
-                    text "与若叶睦聊天中":
+                    $ _gw_val = float(getattr(persistent, 'gw_wakaba', 0) or 0)
+                    $ _gw_str = "{:.1f}".format(_gw_val)
+                    vbox:
                         style "empty"
-                        font "gui/font/harmonyossans.ttf"
-                        size 12 color "#555555" bold False
-                        yalign 0.5
-                    null xfill True
-
-                    # 结束按钮靠最右
-                    button:
-                        style "empty"
-                        xsize 72 ysize 26 yalign 0.5
-                        background Solid("#ffdddd")
-                        hover_background Solid("#ffbbbb")
-                        action [SetVariable("_ai_chatting", False),
-                                SetVariable("_ai_display_reply", ""),
-                                SetVariable("_ai_thinking", False),
-                                Hide("ai_chat_overlay_screen")]
-                        text "结束对话":
+                        xfill True spacing 4
+                        text "好感度":
                             style "empty"
                             font "gui/font/harmonyossans.ttf"
-                            size 11 color "#cc3333" bold False
-                            xalign 0.5 yalign 0.5
-
-            # 对话区（含滚动）
-            frame:
-                style "empty"
-                xfill True ysize 272
-                background Solid("#fafafa")
-
-                hbox:
-                    style "empty"
-                    xfill True yfill True
-
-                    # 左侧：对话记录（可滚动）
-                    viewport:
-                        style "empty"
-                        xsize 880 yfill True
-                        mousewheel True
-                        scrollbars "vertical"
-                        yadjustment ui.adjustment(value=999999)
-
+                            size 10 color "#888888" bold False
+                        text "[_gw_str]":
+                            style "empty"
+                            font "gui/font/harmonyossans.ttf"
+                            size 20 color "#5a9a5a" bold False
+                            xalign 0.5
+                        $ _bar_w = int(min(_gw_val / 100.0, 1.0) * 180)
                         frame:
                             style "empty"
-                            xfill True
-                            left_padding 14 right_padding 4 top_padding 8 bottom_padding 8
+                            xsize 180 ysize 6 xalign 0.5
+                            background Solid("#dddddd")
+                            add Solid("#8FBC8F") xsize _bar_w ysize 6
 
-                            vbox:
-                                style "empty"
-                                xfill True spacing 8
-
-                                for _role, _msg in _ai_chat_log:
-                                    $ _is_me = (_role == "user")
-                                    if not _is_me:
-                                        hbox:
-                                            style "empty"
-                                            xfill True spacing 0
-                                            vbox:
-                                                style "empty"
-                                                xmaximum 700 spacing 2
-                                                text "若叶睦":
-                                                    style "empty"
-                                                    font "gui/font/harmonyossans.ttf"
-                                                    size 10 color "#6a9c6a" bold False
-                                                frame:
-                                                    style "empty"
-                                                    background Solid("#e8f5e8")
-                                                    left_padding 10 right_padding 10 top_padding 6 bottom_padding 6
-                                                    text "[_msg]":
-                                                        style "empty"
-                                                        font "gui/font/harmonyossans.ttf"
-                                                        size 13 color "#333333" bold False
-                                                        line_spacing 4
-                                            null xfill True
-                                    else:
-                                        hbox:
-                                            style "empty"
-                                            xfill True spacing 0
-                                            null xfill True
-                                            vbox:
-                                                style "empty"
-                                                xmaximum 700 spacing 2
-                                                text "我":
-                                                    style "empty"
-                                                    font "gui/font/harmonyossans.ttf"
-                                                    size 10 color "#6666aa" bold False
-                                                    xalign 1.0
-                                                frame:
-                                                    style "empty"
-                                                    background Solid("#eeeeff")
-                                                    left_padding 10 right_padding 10 top_padding 6 bottom_padding 6
-                                                    text "[_msg]":
-                                                        style "empty"
-                                                        font "gui/font/harmonyossans.ttf"
-                                                        size 13 color "#333333" bold False
-                                                        line_spacing 4
-
-                                if _ai_thinking:
-                                    hbox:
-                                        style "empty"
-                                        spacing 0
-                                        frame:
-                                            style "empty"
-                                            background Solid("#e8f5e8")
-                                            left_padding 10 right_padding 10 top_padding 6 bottom_padding 6
-                                            text "……":
-                                                style "empty"
-                                                font "gui/font/harmonyossans.ttf"
-                                                size 13 color "#6a9c6a" bold False
-
-                    # 右侧：好感度状态面板
+                    $ _gw_rank_d = "深深的羁绊" if _gw_val>=500 else "亲密" if _gw_val>=200 else "熟悉" if _gw_val>=80 else "相识" if _gw_val>=30 else "陌生"
                     frame:
                         style "empty"
-                        xsize 206 yfill True
-                        background Solid("#f5f0ea")
-                        left_padding 12 right_padding 12 top_padding 16 bottom_padding 16
-
-                        vbox:
+                        xfill True
+                        background Solid("#e0f0e0")
+                        left_padding 8 right_padding 8 top_padding 4 bottom_padding 4
+                        text "[_gw_rank_d]":
                             style "empty"
-                            xfill True spacing 10
-
-                            text "若叶睦":
-                                style "empty"
-                                font "gui/font/harmonyossans.ttf"
-                                size 11 color "#8FBC8F" bold False xalign 0.5
-
-                            frame:
-                                style "empty"
-                                xfill True ysize 1
-                                background Solid("#cccccc")
-
-                            # 好感度数值
-                            $ _gw_val = float(getattr(persistent, 'gw_wakaba', 0) or 0)
-                            $ _gw_str = "{:.0f}".format(_gw_val)
-                            vbox:
-                                style "empty"
-                                xfill True spacing 3
-                                text "好感度":
-                                    style "empty"
-                                    font "gui/font/harmonyossans.ttf"
-                                    size 10 color "#888888" bold False xalign 0.5
-                                text "[_gw_str]":
-                                    style "empty"
-                                    font "gui/font/harmonyossans.ttf"
-                                    size 22 color "#8FBC8F" bold False xalign 0.5
-
-                            # 好感度进度条
-                            $ _gw_bar = min(int(_gw_val) % 100, 100)
-                            frame:
-                                style "empty"
-                                xfill True ysize 6
-                                background Solid("#dddddd")
-                                frame:
-                                    style "empty"
-                                    xsize int(182 * _gw_bar / 100) ysize 6
-                                    background Solid("#8FBC8F")
-
-                            # 关系段位
-                            $ _gw_rank = "深深的羁绊" if _gw_val>=500 else "亲密" if _gw_val>=200 else "熟悉" if _gw_val>=80 else "相识" if _gw_val>=30 else "陌生"
-                            text "[_gw_rank]":
-                                style "empty"
-                                font "gui/font/harmonyossans.ttf"
-                                size 11 color "#aaaaaa" bold False xalign 0.5
-
-                            frame:
-                                style "empty"
-                                xfill True ysize 1
-                                background Solid("#cccccc")
-
-                            # AI模式提示
-                            text "AI对话中":
-                                style "empty"
-                                font "gui/font/harmonyossans.ttf"
-                                size 9 color "#cccccc" bold False xalign 0.5
-                            text "🌱 测试中":
-                                style "empty"
-                                font "gui/font/harmonyossans.ttf"
-                                size 9 color "#cccccc" bold False xalign 0.5
-
-            # 分隔线
-            frame:
-                style "empty"
-                xfill True ysize 1
-                background Solid("#dddddd")
-
-            # 输入区
-            frame:
-                style "empty"
-                xfill True ysize 58
-                background Solid("#ffffff")
-                left_padding 10 right_padding 10 top_padding 8 bottom_padding 8
-
-                hbox:
-                    style "empty"
-                    xfill True yalign 0.5 spacing 0
-
-                    frame:
-                        style "empty"
-                        xsize 1020 ysize 36 yalign 0.5
-                        background Solid("#f0f0f0")
-                        left_padding 10 right_padding 10
-
-                        input:
-                            style "empty"
-                            value VariableInputValue("_ai_input_buf")
-                            color "#333333" size 13
                             font "gui/font/harmonyossans.ttf"
-                            length 200 yalign 0.5
+                            size 11 color "#5a7a5a" bold False
+                            xalign 0.5
+
+                    $ _gw_delta = _gw_val - float(getattr(persistent, 'gw_wakaba_session_start', _gw_val) or _gw_val)
+                    if abs(_gw_delta) > 0.01 and getattr(persistent, 'gw_wakaba_session_start', None) is not None:
+                        $ _delta_str = ("+{:.1f}" if _gw_delta > 0 else "{:.1f}").format(_gw_delta)
+                        $ _delta_col = "#5a9a5a" if _gw_delta > 0 else "#cc4444"
+                        text "本次 [_delta_str]":
+                            style "empty"
+                            font "gui/font/harmonyossans.ttf"
+                            size 11 bold False
+                            color _delta_col
+                            xalign 0.5
+
+                    null height 10
 
                     button:
                         style "empty"
-                        xsize 70 ysize 36 yalign 0.5
-                        background Solid("#8FBC8F")
-                        hover_background Solid("#6a9c6a")
-                        sensitive not _ai_thinking
-                        action Function(_ai_send_from_screen)
-                        text "发送":
+                        xfill True ysize 32
+                        background Solid("#e8e0d8")
+                        hover_background Solid("#d8d0c8")
+                        action [SetVariable("_ai_chat_log", []),
+                                SetVariable("_ai_thinking", False),
+                                SetVariable("_ai_display_reply", ""),
+                                SetVariable("_ai_input_buf", ""),
+                                SetField(persistent, "gw_wakaba_session_start", None),
+                                SetField(persistent, "ai_chat_history", [])]
+                        text "开启新对话":
                             style "empty"
                             font "gui/font/harmonyossans.ttf"
-                            size 12 color "#ffffff" bold False
+                            size 11 color "#666666" bold False
                             xalign 0.5 yalign 0.5
 
     key "K_ESCAPE" action [SetVariable("_ai_chatting", False),
                            SetVariable("_ai_display_reply", ""),
+                           SetField(persistent, "gw_wakaba_session_start", None),
                            Hide("ai_chat_overlay_screen")]
+    key "K_RETURN"   action Function(_ai_send_from_screen)
+    key "K_KP_ENTER" action Function(_ai_send_from_screen)
 
 
 screen ai_ingame_chat_screen():
