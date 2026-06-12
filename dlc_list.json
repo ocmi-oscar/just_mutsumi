@@ -1,0 +1,10 @@
+{
+  "dlcs": [
+    {
+      "id": "prequel",
+      "name": "前传剧情DLC",
+      "desc": "讲述你与睦和Mortis相遇之前的故事",
+      "coming_soon": true
+    }
+  ]
+}
